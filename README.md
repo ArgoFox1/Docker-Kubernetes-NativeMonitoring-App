@@ -30,7 +30,7 @@
 > minikube start
 
 4-**Then Create service object**
-> kubectl apply -f monitoring-service.yaml.yaml .
+> kubectl apply -f monitoring-service.yaml .
 
 **if your not in the kubernetes folder** 
 >kubectl apply -f monitoring-service.yaml path/to/your/folder
